@@ -1,0 +1,14 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "pixel_values": {
+      "_type": "Image"
+    },
+    "label": {
+      "_type": "Image"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
